@@ -1,4 +1,3 @@
 # bioelite_firewall
 
-TODO: Enter the cookbook description here.
-
+A wrapper cookbook to manage firewall rules for SSH and web
